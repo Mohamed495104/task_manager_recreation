@@ -54,7 +54,7 @@ A full-stack web application that combines professional task management with an 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Swedha-P/TaskFlow-Group-project-Sem3.git
+git clone https://github.com/Mohamed495104/task_manager_recreation.git
 cd Task-Manager-Recreation-App
 ```
 
