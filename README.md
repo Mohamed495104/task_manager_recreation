@@ -121,7 +121,3 @@ npm run dev
 2. **Task Management**: Access the dashboard to create, view, update, and delete tasks
 3. **Recreation Zone**: Navigate to the games section to play Tic Tac Toe and track your wins
 4. **Data Persistence**: All tasks are stored in MongoDB, while recreation statistics are saved in Firestore
-
-## 🔗 Links
-
-- **Repository**: [TaskFlow Group Project](https://github.com/Swedha-P/TaskFlow-Group-project-Sem3.git)
